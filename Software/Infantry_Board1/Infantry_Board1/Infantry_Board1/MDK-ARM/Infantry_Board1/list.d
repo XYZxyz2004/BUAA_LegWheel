@@ -1,0 +1,12 @@
+infantry_board1\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+infantry_board1\list.o: F:\KEIL5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+infantry_board1\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+infantry_board1\list.o: F:\KEIL5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+infantry_board1\list.o: F:\KEIL5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+infantry_board1\list.o: ../Core/Inc/FreeRTOSConfig.h
+infantry_board1\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+infantry_board1\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+infantry_board1\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+infantry_board1\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+infantry_board1\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+infantry_board1\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
