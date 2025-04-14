@@ -55,7 +55,6 @@ end
 disp(A);
 disp(B);
 %% LQR计算
-
 leg_var = 0.096;
 K=zeros(30,12);
 leglen=zeros(30,1);
